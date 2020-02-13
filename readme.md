@@ -1,2 +1,3 @@
-my linux learing record
+### target
+- my linux learning record
 
