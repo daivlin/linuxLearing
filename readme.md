@@ -10,3 +10,4 @@
     sudo apt update
     sudo apt install fsearch-trunk
 ```
+4. 视频/音频播放器: vlc
