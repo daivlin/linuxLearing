@@ -1,5 +1,4 @@
-### target
-- my linux learning record
+### linux学习记录 
 
 ### linuxmint 常用软件
 1. pdf浏览器:okular
